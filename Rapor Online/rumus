@@ -1,8 +1,0 @@
-## Rumus INDEX & MATCH
-=INDEX(IMPORTRANGE("link file database", "identitas!B1:B37"),F8 
-MATCH(1, (IMPORTRANGE("link file database", "identitas!A1:A37")=$B$1)*
-(IMPORTRANGE("link file database", "identitas!C1:C37")=$C$1), 0))
-
-
-## Rumus VLOOKUP
-=VLOOKUP($B$2, IMPORTRANGE("link file database", "NILAI!B1:BJ38"), 2, FALSE)
