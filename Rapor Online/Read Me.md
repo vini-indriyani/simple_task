@@ -8,7 +8,7 @@ nama, nilai dan ranking sesuai dengan NISN mereka.
 ## Rumus yang digunakan
 - INDEX MATCH
   <p>Saya menggunakan rumus ini untuk mencari nama siswa dengan memasuka 2 kritesia yaitu: NISN dan kode</p>
-  ![screenshot-20230225-104453-youtube](https://github.com/user-attachments/assets/114c6cff-8e62-4454-b746-cb3d6d916843)
+  ![alt text](https://github.com/vini-indriyani/simple_task/blob/main/Rapor%20Online/imgs/01%20img.PNG?raw=true)
 
   
 - VLOOKUP
