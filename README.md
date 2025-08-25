@@ -1,2 +1,2 @@
 # simple_task
-Project simple yang saya kerjakan menggunakan spreadsheet
+Beberapa project sederhana yang saya kerjakan menggunakan spreadsheet.
