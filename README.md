@@ -1,2 +1,6 @@
 # simple_task
-Beberapa project sederhana yang saya kerjakan menggunakan spreadsheet.
+Beberapa project sederhana spreadsheet yang menggunakan formula basic seperti
+ - VLOOKUP
+ - INDEX & MATCH
+ - Conditonal Formating
+ - COUNT
